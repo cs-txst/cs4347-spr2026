@@ -1,2 +1,2 @@
-# cs4347-spr2026
-Code repository for course CS 4347 - Spring 2026
+# Repository of code examples given in TXST CS 4347 - Spring 2026
+
